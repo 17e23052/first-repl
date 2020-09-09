@@ -1,1 +1,2 @@
-print("Testing testing 1 2 3")
+age = input('What is your age?\n')
+print("Interesting!")
