@@ -1,2 +1,2 @@
-age = input('What is your age?\n')
+age = int(input('What is your age?\n'))
 print("Interesting!")
